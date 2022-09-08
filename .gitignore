@@ -1,0 +1,11 @@
+.env
+node_modules
+cache
+artifacts
+deployments
+.prettierrc
+coverage
+.prettierrc
+.prettierrcignore
+.solhint.json
+.solhintignore
