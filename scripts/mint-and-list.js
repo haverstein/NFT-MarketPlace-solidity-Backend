@@ -25,4 +25,3 @@ mintAndList()
         console.log(error)
         process.exit(1)
     })
-//24.48.28
